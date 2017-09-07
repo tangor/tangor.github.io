@@ -1,5 +1,5 @@
 title: zegal
-description: zegal's Blog.
+description: zegal
 show_downloads: true
-google_analytics:
+google_analytics: false
 theme: jekyll-theme-cayman
